@@ -17,3 +17,9 @@ build/
 .idea/
 .vscode/
 *.swp
+
+# 开发候选/中间产物（不入库）
+assets/candidates/
+assets/make_candidates.py
+assets/make_icon_2026*.py
+assets/screenshots/*_raw.png
