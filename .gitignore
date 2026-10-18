@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# 构建产物（含二进制与安装包，不入库）
+build/
+dist/
+*.dmg
+*.zip
+
+# Xcode / Swift
+*.xcuserdata/
+DerivedData/
+.swiftpm/
+build/
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
